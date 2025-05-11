@@ -13,13 +13,26 @@ Data-driven Machine Learning Engineer & Data Scientist experienced in AI, LLMs, 
 
 ---
 
-### 🛠️ Tech Stack
-
-- **Languages:** Python, SQL, JavaScript (Basics), Web Dev (Basics)  
-- **Databases:** PostgreSQL, Oracle, MySQL, MongoDB (Basics), ElasticSearch (Basics)  
-- **Frameworks & Tools:** FastAPI, LangChain, Apache Superset, Git, Azure DevOps  
-- **ML & AI:** Machine Learning, Generative AI, LLMs, Feature Engineering  
-- **Others:** REST APIs, Docker (Basics), Kubernetes (Basics), Jupyter, VSCode  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Superset-000000?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM-7928CA?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-20C997?style=for-the-badge&logo=brainly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+</p>
 
 ---
 
@@ -39,6 +52,14 @@ Data-driven Machine Learning Engineer & Data Scientist experienced in AI, LLMs, 
 #### 🔹 Resource Auto-Scaling Solution
 - Built forecasting pipeline from **Elasticsearch → PostgreSQL**
 - Automated scaling logic reduced cloud cost by **18%**
+
+---
+
+### 📋 Publication
+
+- **Violence Detection for Surveillance Systems Using Lightweight CNN Models**  
+  _Institute of Engineering and Technology · June 20, 2022_  
+  [🔗 Read Publication on IEEE Xplore](https://ieeexplore.ieee.org/document/9800155)
 
 ---
 
@@ -67,23 +88,6 @@ Data-driven Machine Learning Engineer & Data Scientist experienced in AI, LLMs, 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pramodsbaviskar7&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodsbaviskar7&layout=compact&theme=radical" height="180"/>
-</p>
-
----
-
-### 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pramodsbaviskar7&theme=github-compact"/>
-</p>
-
----
-
 ### 📫 Contact Me
 
 <p align="center">
@@ -96,7 +100,7 @@ Data-driven Machine Learning Engineer & Data Scientist experienced in AI, LLMs, 
   <a href="https://github.com/pramodsbaviskar7">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white">
   </a>
-  <a href="https://my-portfolio-sable-nine-63.vercel.app/">
+  <a href="https://your-portfolio-link.com">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-grey?logo=firefox&logoColor=white">
   </a>
 </p>
