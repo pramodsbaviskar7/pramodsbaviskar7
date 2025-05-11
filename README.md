@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pramod Baviskar</h1>
-<h3 align="center">Associate Data Scientist @ Jio | AI/ML Engineer | LLM & RAG Expert</h3>
+<h1 align="center" style="font-size: 3em; color: #2C3E50; font-family: 'Roboto', sans-serif;">Hi 👋, I'm <span style="color: #E74C3C;">Pramod Baviskar</span></h1>
+<h3 align="center" style="color: #34495E; font-family: 'Roboto', sans-serif; font-size: 1.5em;">Associate Data Scientist @ Jio | AI/ML Engineer | LLM & RAG Expert</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=AI+%7C+LLMs+%7C+RAG+%7C+GenAI+%7C+ML+Engineer;Python+%7C+SQL+%7C+LangChain+%7C+FastAPI;Building+Scalable+AI+and+Data+Solutions" />
@@ -7,9 +7,9 @@
 
 ---
 
-### 💼 Professional Summary
+### 💼 **Professional Summary**
 
-Data-driven Machine Learning Engineer & Data Scientist experienced in AI, LLMs, RAG architecture, and predictive modeling. Skilled in Python, SQL, feature engineering, and scalable AI solution design. Proven ability to build enterprise-grade chatbots, alert prioritization systems, and cloud cost-optimization tools. Adept at working with cross-functional teams to deliver intelligent and impactful solutions.
+Data-driven Machine Learning Engineer & Data Scientist with hands-on experience in **AI, LLMs**, and **RAG architecture**. Adept at leveraging **Python**, **SQL**, and **scalable AI solutions** to build enterprise-grade applications, predictive models, and cloud-based systems. Proven track record in transforming business challenges into impactful technical solutions by collaborating with cross-functional teams.
 
 ---
 
@@ -44,44 +44,44 @@ Data-driven Machine Learning Engineer & Data Scientist experienced in AI, LLMs, 
 </p>
 
 ---
-### 📋 Publication
 
-- **Violence Detection for Surveillance Systems Using Lightweight CNN Models**  
-  _Institute of Engineering and Technology · June 20, 2022_  
-  [🔗 Read Publication on IEEE Xplore](https://ieeexplore.ieee.org/document/9800155)
+### 📋 **Publication**
 
----
-
-### 🚀 Key Projects at Jio Platforms
-
-#### 🔹 CloudXP Chatbot (LLM + RAG)
-- Built an AI-powered chatbot using **LLMs & Retrieval Augmented Generation**
-- Deployed **LLaMA model** on-premise for secure enterprise usage
-- Achieved **90%+ accuracy** in internal document retrieval
-- Reduced support tickets by **35%**
-
-#### 🔹 Alert Scoring & Recommendations
-- Created ML models for **alert prioritization & remediation**
-- Developed recommendation engine using **historical system logs**
-- Cut response time by **30%**, reduced costs by **25%**
-
-#### 🔹 Resource Auto-Scaling Solution
-- Built forecasting pipeline from **Elasticsearch → PostgreSQL**
-- Automated scaling logic reduced cloud cost by **18%**
+**Violence Detection for Surveillance Systems Using Lightweight CNN Models**  
+_Institute of Engineering and Technology · June 20, 2022_  
+[🔗 Read Publication on IEEE Xplore](https://ieeexplore.ieee.org/document/9800155)
 
 ---
 
+### 🚀 **Key Projects at Jio Platforms**
 
-### 🏆 Achievements
+#### 🔹 **CloudXP Chatbot (LLM + RAG)**
+- Built an AI-powered chatbot using **LLMs** and **Retrieval Augmented Generation** to enhance customer service.
+- Deployed **LLaMA model** for secure enterprise use.
+- Achieved **90%+ accuracy** in document retrieval.
+- Reduced support tickets by **35%** through automation.
 
-- ⭐ **Star Performer** at Reliance Jio – *2023 & 2024*  
-- 🥇 Winner – Xhibitech, Bharti Vidyapeeth COE  
-- 🏆 Winner – Innovation 2021, SIES COE  
-- 🎯 Finalist – Project DeepBlue (Mastek & Majesco)
+#### 🔹 **Alert Scoring & Recommendations**
+- Created **machine learning models** for prioritizing and remediating alerts.
+- Developed a **recommendation engine** based on historical system logs.
+- Reduced response time by **30%** and cut costs by **25%**.
+
+#### 🔹 **Resource Auto-Scaling Solution**
+- Designed a **forecasting pipeline** integrating **Elasticsearch** and **PostgreSQL**.
+- Automated scaling logic, resulting in **18%** savings on cloud costs.
 
 ---
 
-### 🎓 Education
+### 🏆 **Achievements**
+
+- ⭐ **Star Performer** at **Reliance Jio** – *2023 & 2024*
+- 🥇 **Winner** – Xhibitech, Bharti Vidyapeeth COE
+- 🏆 **Winner** – Innovation 2021, SIES COE
+- 🎯 **Finalist** – Project DeepBlue (Mastek & Majesco)
+
+---
+
+### 🎓 **Education**
 
 **Bachelor of Engineering – Information Technology**  
 *Pillai College of Engineering, Navi Mumbai*  
@@ -89,27 +89,29 @@ Data-driven Machine Learning Engineer & Data Scientist experienced in AI, LLMs, 
 
 ---
 
-### 📜 Certifications
+### 📜 **Certifications**
 
-- **AI Infrastructure & Operations Fundamentals** – Nov 2024  
-- **Generative AI for Everyone** – Nov 2024  
+- **AI Infrastructure & Operations Fundamentals** – Nov 2024
+- **Generative AI for Everyone** – Nov 2024
 - **Python Programming** – Mar 2023
 
 ---
 
-### 📫 Contact Me
+### 📫 **Contact Me**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pramodsbaviskar/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pramodsbaviskar7@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/pramodsbaviskar7">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
   </a>
   <a href="https://your-portfolio-link.com">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-grey?logo=firefox&logoColor=white">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-grey?logo=firefox&logoColor=white" />
   </a>
 </p>
+
+---
