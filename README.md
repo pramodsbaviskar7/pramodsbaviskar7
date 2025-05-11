@@ -32,7 +32,23 @@ Data-driven Machine Learning Engineer & Data Scientist experienced in AI, LLMs, 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Development-000000?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DBeaver-1B6AC6?style=for-the-badge&logo=dbeaver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLDeveloper-0E60B3?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
+
+---
+### 📋 Publication
+
+- **Violence Detection for Surveillance Systems Using Lightweight CNN Models**  
+  _Institute of Engineering and Technology · June 20, 2022_  
+  [🔗 Read Publication on IEEE Xplore](https://ieeexplore.ieee.org/document/9800155)
 
 ---
 
@@ -55,13 +71,6 @@ Data-driven Machine Learning Engineer & Data Scientist experienced in AI, LLMs, 
 
 ---
 
-### 📋 Publication
-
-- **Violence Detection for Surveillance Systems Using Lightweight CNN Models**  
-  _Institute of Engineering and Technology · June 20, 2022_  
-  [🔗 Read Publication on IEEE Xplore](https://ieeexplore.ieee.org/document/9800155)
-
----
 
 ### 🏆 Achievements
 
