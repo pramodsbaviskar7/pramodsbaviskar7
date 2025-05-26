@@ -1,117 +1,241 @@
-<h1 align="center" style="font-size: 3em; color: #2C3E50; font-family: 'Roboto', sans-serif;">Hi 👋, I'm <span style="color: #E74C3C;">Pramod Baviskar</span></h1>
-<h3 align="center" style="color: #34495E; font-family: 'Roboto', sans-serif; font-size: 1.5em;">Associate Data Scientist @ Jio | AI/ML Engineer | LLM & RAG Expert</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pramod%20Baviskar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header"/>
+</div>
+
+<h1 align="center" style="font-size: 3em; color: #2C3E50; font-family: 'Roboto', sans-serif;">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" height="35px"> 
+  I'm <span style="color: #E74C3C;">Pramod Baviskar</span>
+</h1>
+
+<h3 align="center" style="color: #34495E; font-family: 'Roboto', sans-serif; font-size: 1.5em;">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  Associate Data Scientist @ Jio | AI/ML Engineer | LLM & RAG Expert
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=AI+%7C+LLMs+%7C+RAG+%7C+GenAI+%7C+ML+Engineer;Python+%7C+SQL+%7C+LangChain+%7C+FastAPI;Building+Scalable+AI+and+Data+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=E74C3C&center=true&vCenter=true&width=600&lines=AI+%7C+LLMs+%7C+RAG+%7C+GenAI+%7C+ML+Engineer;Python+%7C+SQL+%7C+LangChain+%7C+FastAPI;Building+Scalable+AI+and+Data+Solutions;Transforming+Ideas+into+Intelligent+Systems;🚀+Innovation+through+Code+%26+Data+🚀" />
 </p>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pramodsbaviskar7&label=Profile%20Views&color=E74C3C&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/pramodsbaviskar7?label=Followers&style=for-the-badge&color=blue&labelColor=black" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-orange?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Focus" />
+</div>
+
 ---
 
-### 💼 **Professional Summary**
+## 💼 **Professional Summary**
 
-Data-driven Machine Learning Engineer & Data Scientist with hands-on experience in **AI, LLMs**, and **RAG architecture**. Adept at leveraging **Python**, **SQL**, and **scalable AI solutions** to build enterprise-grade applications, predictive models, and cloud-based systems. Proven track record in transforming business challenges into impactful technical solutions by collaborating with cross-functional teams.
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+Data-driven Machine Learning Engineer & Data Scientist with hands-on experience in **AI, LLMs**, and **RAG architecture**. Adept at leveraging **Python**, **SQL**, and **scalable AI solutions** to build enterprise-grade applications, predictive models, and cloud-based systems. 
+
+🔹 **4+ years** of experience in AI/ML  
+🔹 **14+ repositories** on GitHub  
+🔹 **Star Performer** at Reliance Jio  
+🔹 **Published researcher** in Computer Vision  
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Superset-000000?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLM-7928CA?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-20C997?style=for-the-badge&logo=brainly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web%20Development-000000?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DBeaver-1B6AC6?style=for-the-badge&logo=dbeaver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLDeveloper-0E60B3?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
+## 📊 **GitHub Analytics Dashboard**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pramodsbaviskar7&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=E74C3C&icon_color=E74C3C&text_color=ffffff" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodsbaviskar7&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=E74C3C&text_color=ffffff" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramodsbaviskar7&theme=radical&hide_border=true&background=0D1117&stroke=E74C3C&ring=E74C3C&fire=E74C3C&currStreakLabel=E74C3C" alt="GitHub Streak Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pramodsbaviskar7&theme=redical&hide_border=true&bg_color=0D1117&color=E74C3C&line=E74C3C&point=FFFFFF&area=true&area_color=E74C3C" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🏆 **Achievement Showcase**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pramodsbaviskar7&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+</div>
+
+<div align="center">
+  
+| 🏅 **Achievement** | 📈 **Impact** | 🔥 **Status** |
+|:------------------:|:-------------:|:-------------:|
+| Star Performer @ Jio | 2023 & 2024 | ⭐ Active |
+| IEEE Publication | Computer Vision | 📚 Published |
+| CloudXP Chatbot | 90%+ Accuracy | 🚀 Production |
+| Cost Optimization | 18% Savings | 💰 Deployed |
+
+</div>
+
+---
+
+## 🛠️ **Tech Arsenal**
+
+<div align="center">
+
+### **🤖 AI & Machine Learning**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/LLM-7928CA?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-20C997?style=for-the-badge&logo=brainly&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=121212"/>
 </p>
 
+### **🗄️ Data & Databases**
+<p>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=000000"/>
+</p>
+
+### **⚡ Development & Deployment**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white&labelColor=000000"/>
+</p>
+
+### **📊 Analytics & Visualization**
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Apache%20Superset-000000?style=for-the-badge&logo=apache&logoColor=white&labelColor=121212"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=000000"/>
+</p>
+
+</div>
+
 ---
 
-### 📋 **Publication**
+## 📋 **Research Publication**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/📄%20IEEE%20Publication-Computer%20Vision-blue?style=for-the-badge&logo=ieee&logoColor=white&labelColor=1f2937"/>
+</div>
 
 **Violence Detection for Surveillance Systems Using Lightweight CNN Models**  
 _Institute of Engineering and Technology · June 20, 2022_  
 [🔗 Read Publication on IEEE Xplore](https://ieeexplore.ieee.org/document/9800155)
 
----
-
-### 🚀 **Key Projects at Jio Platforms**
-
-#### 🔹 **CloudXP Chatbot (LLM + RAG)**
-- Built an AI-powered chatbot using **LLMs** and **Retrieval Augmented Generation** to enhance customer service.
-- Deployed **LLaMA model** for secure enterprise use.
-- Achieved **90%+ accuracy** in document retrieval.
-- Reduced support tickets by **35%** through automation.
-
-#### 🔹 **Alert Scoring & Recommendations**
-- Created **machine learning models** for prioritizing and remediating alerts.
-- Developed a **recommendation engine** based on historical system logs.
-- Reduced response time by **30%** and cut costs by **25%**.
-
-#### 🔹 **Resource Auto-Scaling Solution**
-- Designed a **forecasting pipeline** integrating **Elasticsearch** and **PostgreSQL**.
-- Automated scaling logic, resulting in **18%** savings on cloud costs.
+<div align="center">
+  <img src="https://img.shields.io/badge/Research%20Area-Computer%20Vision-green?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1f2937"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-CNN%20Models-orange?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1f2937"/>
+</div>
 
 ---
 
-### 🏆 **Achievements**
+## 🚀 **Enterprise Projects at Jio**
 
-- ⭐ **Star Performer** at **Reliance Jio** – *2023 & 2024*
-- 🥇 **Winner** – Xhibitech, Bharti Vidyapeeth COE
-- 🏆 **Winner** – Innovation 2021, SIES COE
-- 🎯 **Finalist** – Project DeepBlue (Mastek & Majesco)
+<div align="center">
 
----
+### 🔹 **CloudXP Chatbot (LLM + RAG)**
+<img src="https://img.shields.io/badge/🤖%20AI%20Chatbot-90%25+%20Accuracy-success?style=for-the-badge&labelColor=1f2937"/>
+<img src="https://img.shields.io/badge/📉%20Ticket%20Reduction-35%25-blue?style=for-the-badge&labelColor=1f2937"/>
 
-### 🎓 **Education**
+### 🔹 **Alert Scoring & Recommendations**  
+<img src="https://img.shields.io/badge/⚡%20Response%20Time-30%25%20Faster-orange?style=for-the-badge&labelColor=1f2937"/>
+<img src="https://img.shields.io/badge/💰%20Cost%20Reduction-25%25-green?style=for-the-badge&labelColor=1f2937"/>
 
-**Bachelor of Engineering – Information Technology**  
-*Pillai College of Engineering, Navi Mumbai*  
-📅 June 2018 – June 2022 | 🎓 GPA: 9.57
+### 🔹 **Resource Auto-Scaling Solution**  
+<img src="https://img.shields.io/badge/☁️%20Cloud%20Savings-18%25-blue?style=for-the-badge&labelColor=1f2937"/>
+<img src="https://img.shields.io/badge/🔧%20Automation-Full%20Pipeline-purple?style=for-the-badge&labelColor=1f2937"/>
 
----
-
-### 📜 **Certifications**
-
-- **AI Infrastructure & Operations Fundamentals** – Nov 2024
-- **Generative AI for Everyone** – Nov 2024
-- **Python Programming** – Mar 2023
+</div>
 
 ---
 
-### 📫 **Contact Me**
+## 🏆 **Achievements & Recognition**
 
-<p align="center">
+<div align="center">
+  <img src="https://img.shields.io/badge/⭐%20Star%20Performer-Jio%202023%20&%202024-gold?style=for-the-badge&logo=star&logoColor=white&labelColor=1f2937"/>
+  <img src="https://img.shields.io/badge/🥇%20Winner-Xhibitech%20BVCOE-blue?style=for-the-badge&logo=trophy&logoColor=white&labelColor=1f2937"/>
+  <img src="https://img.shields.io/badge/🏆%20Winner-Innovation%202021-green?style=for-the-badge&logo=lightbulb&logoColor=white&labelColor=1f2937"/>
+  <img src="https://img.shields.io/badge/🎯%20Finalist-Project%20DeepBlue-orange?style=for-the-badge&logo=target&logoColor=white&labelColor=1f2937"/>
+</div>
+
+---
+
+## 🎓 **Education & Certifications**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🎓%20B.E.%20Information%20Technology-GPA%209.57/10-brightgreen?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=1f2937"/>
+</div>
+
+**Pillai College of Engineering, Navi Mumbai** | *June 2018 – June 2022*
+
+### 📜 **Recent Certifications**
+<div align="center">
+  <img src="https://img.shields.io/badge/🚀%20AI%20Infrastructure-Nov%202024-success?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=1f2937"/>
+  <img src="https://img.shields.io/badge/🤖%20Generative%20AI-Nov%202024-blue?style=for-the-badge&logo=openai&logoColor=white&labelColor=1f2937"/>
+  <img src="https://img.shields.io/badge/🐍%20Python%20Programming-Mar%202023-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=1f2937"/>
+</div>
+
+---
+
+## 🌟 **What I'm Up To**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🔭%20Building-AI%20Chrome%20Extensions-red?style=for-the-badge&labelColor=1f2937"/>
+  <img src="https://img.shields.io/badge/🌱%20Learning-Advanced%20RAG%20Systems-green?style=for-the-badge&labelColor=1f2937"/>
+  <img src="https://img.shields.io/badge/👯%20Collaborating-LLM%20Projects-blue?style=for-the-badge&labelColor=1f2937"/>
+  <img src="https://img.shields.io/badge/💬%20Ask%20Me-AI,%20ML,%20Python-orange?style=for-the-badge&labelColor=1f2937"/>
+</div>
+
+- 🔭 Currently building **AI-powered Chrome Extensions** for productivity
+- 🌱 Learning **Advanced RAG Systems** and **Multi-Agent Frameworks**  
+- 👯 Looking to collaborate on **LLM and GenAI projects**
+- 💬 Ask me about **AI, Machine Learning, Python, LLMs, RAG**
+- ⚡ Fun fact: **I turn coffee into code and data into insights!** ☕→👨‍💻
+
+---
+
+## 📱 **Let's Connect & Collaborate**
+
+<div align="center">
   <a href="https://www.linkedin.com/in/pramodsbaviskar/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
   </a>
   <a href="mailto:pramodsbaviskar7@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
   </a>
   <a href="https://github.com/pramodsbaviskar7">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
-  <a href="https://your-portfolio-link.com">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-grey?logo=firefox&logoColor=white" />
+  <a href="https://instagram.com/_pramod_07_" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" />
   </a>
-</p>
+  <a href="https://kaggle.com/pramodsbaviskar">
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000" />
+  </a>
+</div>
 
 ---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" alt="Quote"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" alt="Footer"/>
+</div>
+
+---
+
+<div align="center">
+  <h3>💫 "Transforming data into insights, ideas into innovations!" 💫</h3>
+  <p><em>Thanks for visiting! Let's build the future of AI together! 🚀</em></p>
+</div>
