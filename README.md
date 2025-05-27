@@ -13,9 +13,9 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=E74C3C&center=true&vCenter=true&width=600&lines=AI+%7C+LLMs+%7C+RAG+%7C+GenAI+%7C+ML+Engineer;Python+%7C+SQL+%7C+LangChain+%7C+FastAPI;Building+Scalable+AI+and+Data+Solutions;Transforming+Ideas+into+Intelligent+Systems;🚀+Innovation+through+Code+%26+Data+🚀" />
-</p>
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pramodsbaviskar7&label=Profile%20Views&color=E74C3C&style=for-the-badge" alt="Profile Views" />
@@ -27,30 +27,51 @@
 
 ## 💼 **Professional Summary**
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
+  <img alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
 
-Data-driven Machine Learning Engineer & Data Scientist with hands-on experience in **AI, LLMs**, and **RAG architecture**. Adept at leveraging **Python**, **SQL**, and **scalable AI solutions** to build enterprise-grade applications, predictive models, and cloud-based systems. 
+<div align="center">
+
+Data-driven Machine Learning Engineer & Data Scientist with hands-on experience in **AI, LLMs**, and **RAG architecture**. Adept at leveraging **Python**, **SQL**, and **scalable AI solutions** to build enterprise-grade applications, predictive models, and cloud-based systems.
+
+</div>
+
+<div align="center">
 
 🔹 **4+ years** of experience in AI/ML  
 🔹 **14+ repositories** on GitHub  
 🔹 **Star Performer** at Reliance Jio  
 🔹 **Published researcher** in Computer Vision  
 
+</div>
+
 ---
 
 ## 📊 **GitHub Analytics Dashboard**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pramodsbaviskar7&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=E74C3C&icon_color=E74C3C&text_color=ffffff" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodsbaviskar7&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=E74C3C&text_color=ffffff" alt="Top Languages"/>
+  
+  <!-- Main Stats Row -->
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=pramodsbaviskar7&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=2C3E50&icon_color=E74C3C&text_color=2C3E50">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pramodsbaviskar7&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=2C3E50&icon_color=E74C3C&text_color=2C3E50" alt="GitHub Stats"/>
+  </picture>
+  
+  <!-- Languages Stats -->
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodsbaviskar7&layout=compact&langs_count=6&theme=default&hide_border=true&bg_color=ffffff&title_color=2C3E50&text_color=2C3E50">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodsbaviskar7&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=ffffff&title_color=2C3E50&text_color=2C3E50" alt="Top Languages"/>
+  </picture>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramodsbaviskar7&theme=radical&hide_border=true&background=0D1117&stroke=E74C3C&ring=E74C3C&fire=E74C3C&currStreakLabel=E74C3C" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramodsbaviskar7&theme=default&hide_border=true&background=ffffff&stroke=2C3E50&ring=E74C3C&fire=E74C3C&currStreakLabel=2C3E50&sideNums=2C3E50&currStreakNum=E74C3C&dates=2C3E50&sideLabels=2C3E50" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pramodsbaviskar7&theme=redical&hide_border=true&bg_color=0D1117&color=E74C3C&line=E74C3C&point=FFFFFF&area=true&area_color=E74C3C" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pramodsbaviskar7&theme=github-light&hide_border=true&bg_color=ffffff&color=2C3E50&line=E74C3C&point=E74C3C&area=true&area_color=E74C3C" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -58,7 +79,7 @@ Data-driven Machine Learning Engineer & Data Scientist with hands-on experience 
 ## 🏆 **Achievement Showcase**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pramodsbaviskar7&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pramodsbaviskar7&theme=flat&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
@@ -79,39 +100,47 @@ Data-driven Machine Learning Engineer & Data Scientist with hands-on experience 
 <div align="center">
 
 ### **🤖 AI & Machine Learning**
-<p>
+<div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/LLM-7928CA?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/Generative%20AI-20C997?style=for-the-badge&logo=brainly&logoColor=white&labelColor=000000"/>
+</div>
+<div>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=121212"/>
-</p>
+</div>
 
 ### **🗄️ Data & Databases**
-<p>
+<div>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000"/>
+</div>
+<div>
   <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=000000"/>
-</p>
+</div>
 
 ### **⚡ Development & Deployment**
-<p>
+<div>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000"/>
+</div>
+<div>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white&labelColor=000000"/>
-</p>
+</div>
 
 ### **📊 Analytics & Visualization**
-<p>
+<div>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/Apache%20Superset-000000?style=for-the-badge&logo=apache&logoColor=white&labelColor=121212"/>
+</div>
+<div>
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000"/>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=000000"/>
-</p>
+</div>
 
 </div>
 
@@ -124,7 +153,7 @@ Data-driven Machine Learning Engineer & Data Scientist with hands-on experience 
 </div>
 
 **Violence Detection for Surveillance Systems Using Lightweight CNN Models**  
-_Institute of Engineering and Technology · June 20, 2022_  
+*Institute of Engineering and Technology · June 20, 2022*  
 [🔗 Read Publication on IEEE Xplore](https://ieeexplore.ieee.org/document/9800155)
 
 <div align="center">
@@ -157,10 +186,15 @@ _Institute of Engineering and Technology · June 20, 2022_
 ## 🏆 **Achievements & Recognition**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/⭐%20Star%20Performer-Jio%202023%20&%202024-gold?style=for-the-badge&logo=star&logoColor=white&labelColor=1f2937"/>
-  <img src="https://img.shields.io/badge/🥇%20Winner-Xhibitech%20BVCOE-blue?style=for-the-badge&logo=trophy&logoColor=white&labelColor=1f2937"/>
-  <img src="https://img.shields.io/badge/🏆%20Winner-Innovation%202021-green?style=for-the-badge&logo=lightbulb&logoColor=white&labelColor=1f2937"/>
-  <img src="https://img.shields.io/badge/🎯%20Finalist-Project%20DeepBlue-orange?style=for-the-badge&logo=target&logoColor=white&labelColor=1f2937"/>
+  
+<img src="https://img.shields.io/badge/⭐%20Star%20Performer-Jio%202023%20&%202024-gold?style=for-the-badge&logo=star&logoColor=white&labelColor=1f2937"/>
+
+<img src="https://img.shields.io/badge/🥇%20Winner-Xhibitech%20BVCOE-blue?style=for-the-badge&logo=trophy&logoColor=white&labelColor=1f2937"/>
+
+<img src="https://img.shields.io/badge/🏆%20Winner-Innovation%202021-green?style=for-the-badge&logo=lightbulb&logoColor=white&labelColor=1f2937"/>
+
+<img src="https://img.shields.io/badge/🎯%20Finalist-Project%20DeepBlue-orange?style=for-the-badge&logo=target&logoColor=white&labelColor=1f2937"/>
+
 </div>
 
 ---
@@ -175,9 +209,13 @@ _Institute of Engineering and Technology · June 20, 2022_
 
 ### 📜 **Recent Certifications**
 <div align="center">
-  <img src="https://img.shields.io/badge/🚀%20AI%20Infrastructure-Nov%202024-success?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=1f2937"/>
-  <img src="https://img.shields.io/badge/🤖%20Generative%20AI-Nov%202024-blue?style=for-the-badge&logo=openai&logoColor=white&labelColor=1f2937"/>
-  <img src="https://img.shields.io/badge/🐍%20Python%20Programming-Mar%202023-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=1f2937"/>
+  
+<img src="https://img.shields.io/badge/🚀%20AI%20Infrastructure-Nov%202024-success?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=1f2937"/>
+
+<img src="https://img.shields.io/badge/🤖%20Generative%20AI-Nov%202024-blue?style=for-the-badge&logo=openai&logoColor=white&labelColor=1f2937"/>
+
+<img src="https://img.shields.io/badge/🐍%20Python%20Programming-Mar%202023-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=1f2937"/>
+
 </div>
 
 ---
@@ -185,17 +223,26 @@ _Institute of Engineering and Technology · June 20, 2022_
 ## 🌟 **What I'm Up To**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🔭%20Building-AI%20Chrome%20Extensions-red?style=for-the-badge&labelColor=1f2937"/>
-  <img src="https://img.shields.io/badge/🌱%20Learning-Advanced%20RAG%20Systems-green?style=for-the-badge&labelColor=1f2937"/>
-  <img src="https://img.shields.io/badge/👯%20Collaborating-LLM%20Projects-blue?style=for-the-badge&labelColor=1f2937"/>
-  <img src="https://img.shields.io/badge/💬%20Ask%20Me-AI,%20ML,%20Python-orange?style=for-the-badge&labelColor=1f2937"/>
+  
+<img src="https://img.shields.io/badge/🔭%20Building-AI%20Chrome%20Extensions-red?style=for-the-badge&labelColor=1f2937"/>
+
+<img src="https://img.shields.io/badge/🌱%20Learning-Advanced%20RAG%20Systems-green?style=for-the-badge&labelColor=1f2937"/>
+
+<img src="https://img.shields.io/badge/👯%20Collaborating-LLM%20Projects-blue?style=for-the-badge&labelColor=1f2937"/>
+
+<img src="https://img.shields.io/badge/💬%20Ask%20Me-AI,%20ML,%20Python-orange?style=for-the-badge&labelColor=1f2937"/>
+
 </div>
+
+<div align="center">
 
 - 🔭 Currently building **AI-powered Chrome Extensions** for productivity
 - 🌱 Learning **Advanced RAG Systems** and **Multi-Agent Frameworks**  
 - 👯 Looking to collaborate on **LLM and GenAI projects**
 - 💬 Ask me about **AI, Machine Learning, Python, LLMs, RAG**
 - ⚡ Fun fact: **I turn coffee into code and data into insights!** ☕→👨‍💻
+
+</div>
 
 ---
 
@@ -211,6 +258,9 @@ _Institute of Engineering and Technology · June 20, 2022_
   <a href="https://github.com/pramodsbaviskar7">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
+</div>
+
+<div align="center">
   <a href="https://instagram.com/_pramod_07_" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" />
   </a>
@@ -226,7 +276,7 @@ _Institute of Engineering and Technology · June 20, 2022_
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" alt="Quote"/>
 </div>
 
 <div align="center">
